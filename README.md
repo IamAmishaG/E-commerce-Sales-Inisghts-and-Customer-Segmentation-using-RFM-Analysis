@@ -1,7 +1,7 @@
 # E-commerce Sales Insights and Customer Segmentation using RFM 
 
 ## Description:
-This is end-to-end data analysis endeavor leverages a rich sales dataset of an Online Retail store and employs a synergy of SQL and Tableau to uncover actionable insights, from sales performance trends to customer segmentation (using RFM Analysis). The goal of the project is to be able to analyse sales dynamics of the store and also understand customer behavior to provide business insights.
+This end-to-end data analysis endeavor leverages a rich sales dataset of an Online Retail store and employs a synergy of SQL and Tableau to uncover actionable insights, from sales performance trends to customer segmentation (using RFM Analysis). The goal of the project is to be able to analyse sales dynamics of the store and also understand customer behavior to provide business insights.
 
 **Domain: E-Commerce or Retail Analytics**
 
