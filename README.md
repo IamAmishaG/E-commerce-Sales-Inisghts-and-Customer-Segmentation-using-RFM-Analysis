@@ -23,9 +23,17 @@ The dataset contains information related to customer sales transactions. It incl
   
 In this, we can understand sales performance with in-depth sales analysis using SQL. This is done through dissecting the dataset, calculating critical metrics that uncover sales patterns. Through SQL queries, we understand the monthly sales trends, spotlight top-selling products, assess revenue concentration, and unveil month-over-month growth rates. This granular analysis sets the stage for strategic decision-making. Moving forward we analyse customer behavior such as customer purchase frequency, top spending customers, customer churn Rate, etc to understand how they shop, and help tailor offerings to their needs. 
 
-- Phase 2: Customer Segmentation via RFM Analysis in Tableau - [Tableau Dashboard](https://public.tableau.com/views/CustomerSegmentationUsingRFMAnalysis_16923639221210/Central?:language=en-US&:display_count=n&:origin=viz_share_link) 
+<kbd>![sqlss](https://github.com/IamAmishaG/E-commerce-Sales-Inisghts-and-Customer-Segmentation-using-RFM-Analysis/assets/132007481/4a867589-9ec2-495a-860c-da4dd4039d9d)
+
+
+- Phase 2: Customer Segmentation via RFM Analysis in Tableau - 
   
 This phase brings data to life through interactive visualizations on Tableau. Creative designed dashboards showcases key insights obtained from Customer Segmentation via RFM Analysis. Visualizations include dynamic representations of monthly sales trends, customer segments, and their analyse the purchase patterns based on RFM analysis. Users can seamlessly navigate through these visualizations, extracting valuable information at their fingertips.
+
+[Tableau Dashboard](https://public.tableau.com/views/CustomerSegmentationUsingRFMAnalysis_16923639221210/Central?:language=en-US&:display_count=n&:origin=viz_share_link) 
+
+<kbd>![CoverPhoto](https://github.com/IamAmishaG/E-commerce-Sales-Inisghts-and-Customer-Segmentation-using-RFM-Analysis/assets/132007481/48b24cbd-3018-46e9-97c4-b87a82f0925e)
+
 
 *Note-*
 *This dataset is from Kaggle.com. [LINK TO DATASET](https://www.kaggle.com/datasets/sachinsin8h/online-retail-dataset).* 
