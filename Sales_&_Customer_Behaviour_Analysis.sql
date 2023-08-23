@@ -83,6 +83,16 @@ GROUP BY
 ORDER BY
     Year, Month;
 
+--8. Trend of sales over a rolling period of time
+SELECT
+    [Invoice Date],
+    [Sales Amount],
+    AVG([Sales Amount]) OVER (ORDER BY [Invoice Date] ROWS BETWEEN 6 PRECEDING AND CURRENT ROW) AS RollingAverage
+FROM
+    online_retail
+ORDER BY
+    [Invoice Date];
+
 
 -----------------------------------------CUSTOMER ANALYSIS-----------------------------------------
 --1. Customer Purchase Frequency
